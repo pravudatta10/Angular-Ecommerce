@@ -1,0 +1,37 @@
+.card-img-top{
+    width: 44%;
+    height: 45%;
+    margin: 10px auto;
+}
+#productList  p {
+    margin: 0;  
+}
+ 
+.card{
+    height: 90%;
+    /*  */
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+.btncenter{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.card-body  p{
+margin: 0px; 
+}
+
+.modal-header .close {
+    float: right;
+}
+
+.zoomIn{
+    background: lightgray;
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}

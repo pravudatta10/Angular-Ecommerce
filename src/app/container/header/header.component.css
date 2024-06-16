@@ -1,0 +1,20 @@
+ a{    
+    text-decoration: none;
+    color: black;
+    padding: 15px 10px;
+    display: block;
+}
+#top-menu{
+    background-color: bisque;
+}
+#top-menu img{
+    width: 150px;
+    height: 70px;
+    border-radius: 75%;
+}
+#top-menu li {
+    display: inline-block;
+}
+#top-menu li:hover{
+    background-color: rgb(110, 67, 9); 
+}
